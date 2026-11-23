@@ -6,9 +6,9 @@ An end-to-end data engineering and business intelligence portfolio project. This
 
 ## 🎯 Dashboard Showcase
 
-[![Tableau Dashboard Preview](docs/dashboard_preview.png)](https://public.tableau.com/app/profile/YOUR_PROFILE_LINK)
+[![Tableau Dashboard Preview](docs/dashboard_preview.png)](https://public.tableau.com/app/profile/kerwin.tuvieron/vizzes)
 
-> **🔗 Live Interactive Dashboard:** [Explore the interactive visualization on Tableau Public](https://public.tableau.com/app/profile/YOUR_PROFILE_LINK)
+> **🔗 Live Interactive Dashboard:** [Explore the interactive visualization on Tableau Public](https://public.tableau.com/app/profile/kerwin.tuvieron/vizzes)
 
 ### Key Business Insights Highlighted
 * **Sales & Revenue Performance:** Tracks overall revenue (`sales_amount`), order volume (`quantity`), and pricing trends (`price`) across order, shipping, and due timelines.
@@ -163,3 +163,8 @@ sql-data-warehouse-project/
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+* The data warehouse architecture, medallion pipeline design, and source datasets are inspired by [Data with Baraa](https://www.youtube.com/@DataWithBaraa)'s SQL Data Warehouse project.
+* Extended with custom Tableau data modeling and interactive dashboard visualizations.

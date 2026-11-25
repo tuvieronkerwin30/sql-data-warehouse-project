@@ -6,7 +6,7 @@ An end-to-end data engineering and business intelligence portfolio project. This
 
 ## 🎯 Dashboard Showcase
 
-[![Tableau Dashboard Preview](docs/dashboard_preview.png)](https://public.tableau.com/app/profile/kerwin.tuvieron/vizzes)
+[![Tableau Dashboard Preview](docs/dashboard_preview.png)](https://public.tableau.com/app/profile/kerwin.tuvieron/viz/SalesInformationDashboard_17955134841460/PerformanceDashboard)
 
 > **🔗 Live Interactive Dashboard:** [Explore the interactive visualization on Tableau Public](https://public.tableau.com/app/profile/kerwin.tuvieron/vizzes)
 
